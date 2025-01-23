@@ -1,0 +1,30 @@
+$date
+   Thu Jan 23 13:24:57 2025
+$end
+
+$version
+  2024.1
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module test $end
+$var reg 16 ! sw [15:0] $end
+$var wire 16 " led [15:0] $end
+$scope module dut $end
+$var wire 16 # sw [15:0] $end
+$var wire 16 " led [15:0] $end
+$var reg 1 $ xilinx_isim_temp_0_ln2_assignTransform $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+bx01000 !
+bz0zzzz1zz000 "
+bx01000 #
+0$
+$end
